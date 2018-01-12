@@ -3,3 +3,7 @@
 3) open git bash there
 4) use command git clone <repo address>
 5) git status will test you the tracked or committed files
+6) use git add to include a file in the commit
+7) use git add -A to stage all
+8) use git commit -m "commit message"
+9) use git push -u origin master
