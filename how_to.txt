@@ -1,0 +1,5 @@
+1) go to github and create or find repo.
+2) open file explorer to desired folder location
+3) open git bash there
+4) use command git clone <repo address>
+5) git status will test you the tracked or committed files
